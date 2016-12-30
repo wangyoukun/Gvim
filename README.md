@@ -10,6 +10,5 @@ my Gvim8.0 for windows
 
 #Atentions
 1.for the air-line plugin ,  you need install patched fonts
+
 2.for the vundle   plugin ,  you need install nodejs and git for windows
-
-
