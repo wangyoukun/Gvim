@@ -9,6 +9,6 @@ my Gvim8.0 for windows
 3. edit a file with vim  and  Type the command ":PluginInstall"  
 
 #Atentions
-1.for the air-line plugin ,  you need install patched fonts
+1. for the air-line plugin ,  you need install patched fonts
 
-2.for the vundle   plugin ,  you need install nodejs and git for windows
+2. for the vundle   plugin ,  you need install nodejs and git for windows
